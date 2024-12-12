@@ -1,7 +1,7 @@
 {
-    "id": "testgate",
-    "version": "0.0.2",
-    "name": "testgate",
-    "description": "A simple test system for Minecraft server whitelist applications.",
+    "id": "quizgate",
+    "version": "0.0.3",
+    "name": "quizgate",
+    "description": "一个简单的白名单申请问卷系统，帮助新玩家在加入社区前了解服务器规则和游戏机制。",
     "author": "zhishixiang"
 }
