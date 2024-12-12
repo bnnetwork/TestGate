@@ -11,7 +11,7 @@ TestGate是一个[MCDReforged](https://github.com/MCDReforged/MCDReforged)插件
 1.安装并运行一次以生成默认配置  
 2.进入configs文件夹，找到awl.json  
 3.填写申请好的key，如果您有能力[自行搭建问卷服务器](https://github.com/zhishixiang/TestGate-server-rust)则可修改url到自己的服务器上。  
-4.根据[示例问卷](https://github.com/zhishixiang/TestGate-server-rust/demo.json)的格式编写问卷并[上传](https://awl.toho.red/upload)
+4.根据[示例问卷](https://github.com/zhishixiang/TestGate-server-rust/demo.json)的格式编写问卷并[上传](https://awl.toho.red/upload)  
 5.大功告成，再次启动服务器即可使用。
 
 为什么没地方申请key？因为页面还没做好，如果您还能看到这条消息，那么请麻烦您入群申请（
