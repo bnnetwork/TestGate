@@ -1,7 +1,7 @@
 {
-    "id": "autowhitelist",
+    "id": "testgate",
     "version": "0.0.1",
-    "name": "autowhitelist",
-    "description": "Automaticly add whitelist by tests",
-    "author": "zsx"
+    "name": "testgate",
+    "description": "A simple test system for Minecraft server whitelist applications.",
+    "author": "zhishixiang"
 }
