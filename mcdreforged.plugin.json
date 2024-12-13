@@ -5,6 +5,6 @@
     "description": {
         "en_us": "Automatically manage the whitelist by quizzing players.",
         "zh_cn": "一个简单的白名单申请问卷系统，帮助新玩家在加入社区前了解服务器规则和游戏机制。"
-    }
+    },
     "author": "zhishixiang"
 }
